@@ -1,2 +1,2 @@
-# My-First-Juypter
-My First Juypter Test Repository
+# My-First-Jupyter
+My First Jupyter Test Repository
